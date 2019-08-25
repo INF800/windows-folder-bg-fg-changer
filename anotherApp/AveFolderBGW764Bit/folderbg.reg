@@ -1,0 +1,132 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved]
+"{73526E5A-FD53-4BE7-B5E2-D3C89D7413DC}"="Ave's FolderBg"
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\SharedTaskScheduler]
+"{73526E5A-FD53-4BE7-B5E2-D3C89D7413DC}"="Ave's FolderBg"
+
+
+
+[-HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags]
+
+[HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\AllFolders\Shell]
+"KnownFolderDerivedFolderType"="{57807898-8C4F-4462-BB63-71042380B109}"
+"SniffedFolderType"="Generic"
+"FolderType"=""
+
+;Generic - Folder Template
+
+[HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\AllFolders\Shell\{5C4F28B5-F869-4E84-8E60-F11DB97C5CC7}]
+"Rev"=dword:00000000
+"FFlags"=dword:43000001
+"Vid"="{137E7700-3573-11CF-AE69-08002B2E1262}"
+"Mode"=dword:00000004
+"LogicalViewMode"=dword:00000001
+"IconSize"=dword:00000010
+"ColInfo"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,\
+  00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,\
+  1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,\
+  10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,\
+  a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,\
+  f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+"Sort"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,\
+  25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+"GroupView"=dword:00000000
+"GroupByKey:FMTID"="{00000000-0000-0000-0000-000000000000}"
+"GroupByKey:PID"=dword:00000000
+"GroupByDirection"=dword:00000001
+
+
+;Documents - Folder Template
+
+[HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\AllFolders\Shell\{7d49d726-3c21-4f05-99aa-fdc2c9474656}]
+"Rev"=dword:00000000
+"Vid"="{137E7700-3573-11CF-AE69-08002B2E1262}"
+"Mode"=dword:00000004
+"LogicalViewMode"=dword:00000001
+"IconSize"=dword:00000010
+"ColInfo"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,\
+  00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,\
+  1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,\
+  10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,\
+  a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,\
+  f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+"Sort"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,\
+  25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+"GroupView"=dword:00000000
+"GroupByKey:FMTID"="{00000000-0000-0000-0000-000000000000}"
+"GroupByKey:PID"=dword:00000000
+"GroupByDirection"=dword:00000001
+"FFlags"=dword:43000001
+
+
+;Music - Folder Template
+
+[HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\AllFolders\Shell\{94d6ddcc-4a68-4175-a374-bd584a510b78}]
+"Rev"=dword:00000000
+"Vid"="{137E7700-3573-11CF-AE69-08002B2E1262}"
+"Mode"=dword:00000004
+"LogicalViewMode"=dword:00000001
+"IconSize"=dword:00000010
+"ColInfo"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,\
+  00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,\
+  1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,\
+  10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,\
+  a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,\
+  f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+"Sort"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,\
+  25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+"GroupView"=dword:00000000
+"GroupByKey:FMTID"="{00000000-0000-0000-0000-000000000000}"
+"GroupByKey:PID"=dword:00000000
+"GroupByDirection"=dword:00000001
+"FFlags"=dword:43000001
+
+
+;Pictures - Folder Template
+
+[HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\AllFolders\Shell\{b3690e58-e961-423b-b687-386ebfd83239}]
+"Rev"=dword:00000000
+"Vid"="{137E7700-3573-11CF-AE69-08002B2E1262}"
+"Mode"=dword:00000004
+"LogicalViewMode"=dword:00000001
+"IconSize"=dword:00000010
+"ColInfo"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,\
+  00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,\
+  1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,\
+  10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,\
+  a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,\
+  f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+"Sort"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,\
+  25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+"GroupView"=dword:00000000
+"GroupByKey:FMTID"="{00000000-0000-0000-0000-000000000000}"
+"GroupByKey:PID"=dword:00000000
+"GroupByDirection"=dword:00000001
+"FFlags"=dword:43000001
+
+
+;Videos - Folder Template
+
+[HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\AllFolders\Shell\{5fa96407-7e77-483c-ac93-691d05850de8}]
+"Rev"=dword:00000000
+"Vid"="{137E7700-3573-11CF-AE69-08002B2E1262}"
+"Mode"=dword:00000004
+"LogicalViewMode"=dword:00000001
+"IconSize"=dword:00000010
+"ColInfo"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,fd,df,df,fd,10,\
+  00,00,00,00,00,00,00,00,00,00,00,04,00,00,00,18,00,00,00,30,f1,25,b7,ef,47,\
+  1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,10,01,00,00,30,f1,25,b7,ef,47,1a,\
+  10,a5,f1,02,60,8c,9e,eb,ac,0e,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,\
+  a5,f1,02,60,8c,9e,eb,ac,04,00,00,00,78,00,00,00,30,f1,25,b7,ef,47,1a,10,a5,\
+  f1,02,60,8c,9e,eb,ac,0c,00,00,00,50,00,00,00
+"Sort"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,30,f1,\
+  25,b7,ef,47,1a,10,a5,f1,02,60,8c,9e,eb,ac,0a,00,00,00,01,00,00,00
+"GroupView"=dword:00000000
+"GroupByKey:FMTID"="{00000000-0000-0000-0000-000000000000}"
+"GroupByKey:PID"=dword:00000000
+"GroupByDirection"=dword:00000001
+"FFlags"=dword:43000001

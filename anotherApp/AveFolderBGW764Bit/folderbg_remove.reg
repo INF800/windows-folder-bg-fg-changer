@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved]
+"{73526E5A-FD53-4BE7-B5E2-D3C89D7413DC}"=-
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\SharedTaskScheduler]
+"{73526E5A-FD53-4BE7-B5E2-D3C89D7413DC}"=-
+
+
+[-HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags]
+
